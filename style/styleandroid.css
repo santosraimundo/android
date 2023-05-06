@@ -72,7 +72,6 @@ nav li > a{
  /* --- Change de background with hover*/
 nav li > a:hover:not(.active){
     background-color: var(--cor05);
-    text-decoration: underline;
     color: var(--cor06); 
     transition-duration: 0.5s;
     border-radius: 5px;
