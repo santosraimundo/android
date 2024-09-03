@@ -218,6 +218,8 @@ footer{
     background-color: var(--cor05);
     color: white;
     text-align: center;
+    height: 50px;
+    padding-top: 20px;
 }
 footer a{
     text-decoration: none;
